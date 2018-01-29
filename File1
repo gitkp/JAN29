@@ -1,0 +1,7 @@
+Dev1
+This is GIT and VCS training
+a=10
+b=20
+c=30
+echo="sum:"
+d='expr $a+$b+$c'
